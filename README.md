@@ -1,1 +1,1 @@
-# It's a console application(Snake Game) written in C language.
+# It's a console applicationtten in C language.
